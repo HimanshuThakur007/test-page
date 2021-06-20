@@ -1,0 +1,21 @@
+.collapse-container {
+  padding: 15px;
+  margin: 0 auto;
+  width: 75%;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+.collapse-heading {
+  font-size: 20px;
+  color: #b42681 !important;
+  font-weight: 600;
+}
+
+.collaspe-component-wrapper {
+  width: 82.9% !important;
+  background: white;
+  position: relative;
+  bottom: 30px;
+  border-radius: 0 0 15px 15px;
+}
